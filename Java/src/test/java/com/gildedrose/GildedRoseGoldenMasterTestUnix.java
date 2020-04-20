@@ -6,7 +6,7 @@ import org.junit.Test;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-public class GildedRoseGoldenMasterTest {
+public class GildedRoseGoldenMasterTestUnix {
     final String expected = "OMGHAI!\n"+
             "-------- day 0 --------\n"+
             "name, sellIn, quality\n"+
