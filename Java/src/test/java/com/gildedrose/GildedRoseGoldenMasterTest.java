@@ -19,7 +19,7 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 15, 20" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 10, 49" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 5, 49" + CR +
-            "Conjured Mana Cake, 3, 6" + CR +
+            //"Conjured Mana Cake, 3, 6" + CR +
             "" + CR +
 
             "-------- day 1 --------" + CR +
@@ -32,7 +32,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 14, 21" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 9, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 4, 50" + CR +
-            "Conjured Mana Cake, 2, 5" + CR +
             "" + CR +
 
             "-------- day 2 --------" + CR +
@@ -45,7 +44,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 13, 22" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 8, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 3, 50" + CR +
-            "Conjured Mana Cake, 1, 4" + CR +
             "" + CR +
 
             "-------- day 3 --------" + CR +
@@ -58,7 +56,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 12, 23" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 7, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 2, 50" + CR +
-            "Conjured Mana Cake, 0, 3" + CR +
             "" + CR +
 
             "-------- day 4 --------" + CR +
@@ -71,7 +68,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 11, 24" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 6, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 1, 50" + CR +
-            "Conjured Mana Cake, -1, 1" + CR +
             "" + CR +
 
             "-------- day 5 --------" + CR +
@@ -84,7 +80,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 10, 25" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 5, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 0, 50" + CR +
-            "Conjured Mana Cake, -2, 0" + CR +
             "" + CR +
 
             "-------- day 6 --------" + CR +
@@ -97,7 +92,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 9, 27" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 4, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -1, 0" + CR +
-            "Conjured Mana Cake, -3, 0" + CR +
             "" + CR +
 
             "-------- day 7 --------" + CR +
@@ -110,7 +104,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 8, 29" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 3, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -2, 0" + CR +
-            "Conjured Mana Cake, -4, 0" + CR +
             "" + CR +
 
             "-------- day 8 --------" + CR +
@@ -123,7 +116,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 7, 31" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 2, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -3, 0" + CR +
-            "Conjured Mana Cake, -5, 0" + CR +
             "" + CR +
 
             "-------- day 9 --------" + CR +
@@ -136,7 +128,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 6, 33" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 1, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -4, 0" + CR +
-            "Conjured Mana Cake, -6, 0" + CR +
             "" + CR +
 
             "-------- day 10 --------" + CR +
@@ -149,7 +140,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 5, 35" + CR +
             "Backstage passes to a TAFKAL80ETC concert, 0, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -5, 0" + CR +
-            "Conjured Mana Cake, -7, 0" + CR +
             "" + CR +
 
             "-------- day 11 --------" + CR +
@@ -162,7 +152,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 4, 38" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -1, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -6, 0" + CR +
-            "Conjured Mana Cake, -8, 0" + CR +
             "" + CR +
 
             "-------- day 12 --------" + CR +
@@ -175,7 +164,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 3, 41" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -2, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -7, 0" + CR +
-            "Conjured Mana Cake, -9, 0" + CR +
             "" + CR +
 
             "-------- day 13 --------" + CR +
@@ -188,7 +176,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 2, 44" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -3, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -8, 0" + CR +
-            "Conjured Mana Cake, -10, 0" + CR +
             "" + CR +
 
             "-------- day 14 --------" + CR +
@@ -201,7 +188,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 1, 47" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -4, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -9, 0" + CR +
-            "Conjured Mana Cake, -11, 0" + CR +
             "" + CR +
 
             "-------- day 15 --------" + CR +
@@ -214,7 +200,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, 0, 50" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -5, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -10, 0" + CR +
-            "Conjured Mana Cake, -12, 0" + CR +
             "" + CR +
 
             "-------- day 16 --------" + CR +
@@ -227,7 +212,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, -1, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -6, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -11, 0" + CR +
-            "Conjured Mana Cake, -13, 0" + CR +
             "" + CR +
 
             "-------- day 17 --------" + CR +
@@ -240,7 +224,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, -2, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -7, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -12, 0" + CR +
-            "Conjured Mana Cake, -14, 0" + CR +
             "" + CR +
 
             "-------- day 18 --------" + CR +
@@ -253,7 +236,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, -3, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -8, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -13, 0" + CR +
-            "Conjured Mana Cake, -15, 0" + CR +
             "" + CR +
 
             "-------- day 19 --------" + CR +
@@ -266,7 +248,6 @@ public class GildedRoseGoldenMasterTest {
             "Backstage passes to a TAFKAL80ETC concert, -4, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -9, 0" + CR +
             "Backstage passes to a TAFKAL80ETC concert, -14, 0" + CR +
-            "Conjured Mana Cake, -16, 0" + CR +
             "" + CR ;
 
     @Test
@@ -286,7 +267,8 @@ public class GildedRoseGoldenMasterTest {
                 new Item("Backstage passes to a TAFKAL80ETC concert", 10, 49),
                 new Item("Backstage passes to a TAFKAL80ETC concert", 5, 49),
                 // this conjured item does not work properly yet
-                new Item("Conjured Mana Cake", 3, 6)};
+                //new Item("Conjured Mana Cake", 3, 6)
+                };
 
         GildedRose app = new GildedRose(items);
 
